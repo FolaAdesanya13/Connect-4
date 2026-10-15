@@ -3,7 +3,8 @@
 A two-player Connect 4 desktop game built with C# and Avalonia UI.
 
 <div align= "center">
-  <img width="400" height="250" alt="Connect4-Gameplay" src="https://github.com/user-attachments/assets/281cb60e-c85c-4b44-a9fa-8cfaa89bbed5" />
+  <img width="800" height="500" alt="Screen Recording 2026-10-15 091730" src="https://github.com/user-attachments/assets/41fc7a51-0e8e-42af-a0bc-1150cb344d6b" />
+
 </div>
 
 ## Requirements
