@@ -2,6 +2,10 @@
 
 A two-player Connect 4 desktop game built with C# and Avalonia UI.
 
+<div align= "center">
+  <img width="400" height="250" alt="Connect4-Gameplay" src="https://github.com/user-attachments/assets/281cb60e-c85c-4b44-a9fa-8cfaa89bbed5" />
+</div>
+
 ## Requirements
 
 - .NET 10 SDK
